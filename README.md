@@ -9,9 +9,14 @@ Here is a screen recording of the app.
 
 https://user-images.githubusercontent.com/63208145/134389440-ce7f5ca4-bf9f-403d-8f69-108fd45774e4.mov
 
-![plot](./Downloads/ScrumdingerPic1)
-![plot](./Downloads/ScrumdingerPic2)
-![plot](./Downloads/ScrumdingerPic3)
+<img width="398" alt="ScrumdingerPic1" src="https://user-images.githubusercontent.com/63208145/134389841-9037a799-dd46-4bd8-bf75-aea8fb8abdbf.png">
+
+<img width="399" alt="ScrumdingerPic2" src="https://user-images.githubusercontent.com/63208145/134389862-41bca460-8dae-49ef-8d1d-c4566ef9afd4.png">
+
+<img width="411" alt="ScrumdingerPic3" src="https://user-images.githubusercontent.com/63208145/134389883-37ad5f44-6659-4a83-a11c-fcf2c65f7e6c.png">
+
+<img width="390" alt="ScrumdingerPic4" src="https://user-images.githubusercontent.com/63208145/134389902-96846632-3d0b-499e-91f4-86e811342f24.png">
+
 
 ## Who Did What?
 
