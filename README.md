@@ -7,8 +7,7 @@ I attempted to build an iOS app called Scrumdinger. The purpose of the app was t
 
 Here is a screen recording of the app. 
 
-
-https://user-images.githubusercontent.com/63208145/134387441-b5752ba0-687b-4084-969b-6c95630ae0d9.mov
+https://user-images.githubusercontent.com/63208145/134389440-ce7f5ca4-bf9f-403d-8f69-108fd45774e4.mov
 
 ![plot](./Downloads/ScrumdingerPic1)
 ![plot](./Downloads/ScrumdingerPic2)
