@@ -24,7 +24,7 @@ struct MeetingHeaderView: View {
     let scrumColor: Color
     var body: some View {
         VStack {
-//            ProgressView(value: progress)
+            ProgressView(value: progress)
 //                .progressViewStyle(ScrumProgressViewStyle(scrumColor: scrumColor))
             HStack {
                 VStack(alignment: .leading) {

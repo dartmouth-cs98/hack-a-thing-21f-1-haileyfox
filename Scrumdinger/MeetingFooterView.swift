@@ -42,10 +42,6 @@ struct MeetingFooterView: View {
 
 struct MeetingFooterView_Previews: PreviewProvider {
    static var speakers = [ScrumTimer.Speaker(name: "Kim", isCompleted: false), ScrumTimer.Speaker(name: "Bill", isCompleted: false)]
-//    static var previews: some View {
-//        MeetingFooterView(speakers: speakers, skipAction: {})
-//            .previewLayout(.sizeThatFits)
-//    }
     static var previews: some View {
         MeetingFooterView(speakers: speakers, skipAction: {})
             .previewLayout(.sizeThatFits)
