@@ -17,6 +17,10 @@ https://user-images.githubusercontent.com/63208145/134389440-ce7f5ca4-bf9f-403d-
 
 <img width="390" alt="ScrumdingerPic4" src="https://user-images.githubusercontent.com/63208145/134389902-96846632-3d0b-499e-91f4-86e811342f24.png">
 
+<img width="387" alt="ScrumdingerPic5" src="https://user-images.githubusercontent.com/63208145/134390204-7ba10687-9ce3-47dc-931f-55699edbd724.png">
+
+<img width="406" alt="ScrumdingerPic6" src="https://user-images.githubusercontent.com/63208145/134390217-e339fb9a-59f2-4bf2-b43d-7a30d4810a06.png">
+
 
 ## Who Did What?
 
